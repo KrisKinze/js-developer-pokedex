@@ -5,4 +5,14 @@ class Pokemon {
     type;
     types = [];
     photo;
+
+    //Novos propriedades
+
+    height;
+    weight;
+
+    status = {};
+    moves = [];
+    
+    abilities = [];
 }
